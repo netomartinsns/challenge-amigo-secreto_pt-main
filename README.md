@@ -3,7 +3,10 @@
 ###  DESENVOLVER UM APP DE SORTEIO DE AMIGO SECRETO
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
-![Screenshot 2025-01-23 at 21-47-35 Amigo Secreto](https://github.com/user-attachments/assets/cd56d3ae-3afe-46e4-94fb-6072390e9fee)
+
+
+![Screenshot 2025-01-23 at 21-47-35 Amigo Secreto](https://github.com/user-attachments/assets/02d692fb-0265-469a-a036-703fa7ed0f12)
+
 
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
