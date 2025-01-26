@@ -20,9 +20,9 @@ function atualizarLista() {
 }
 
 function adicionarAmigo() {
-    const input = document.getElementById('inputAmigo');
+    const input = document.getElementById('amigo');
     if (!input) {
-        console.error('Elemento com id "inputAmigo" não encontrado.');
+        console.error('Elemento com id "amigo" não encontrado.');
         return;
     }
     const nomeAmigo = input.value.trim();
@@ -43,7 +43,3 @@ function sortearAmigo() {
     const amigoSorteado = amigos[Math.floor(Math.random() * amigos.length)];
     alert(`Amigo sorteado: ${amigoSorteado}`);
 }
-
-document.getElementById('botaoAdicionar').addEventListener('click', adicionarAmigo);
-document.getElementById('botaoSortear').addEventListener('click', sortearAmigo);
-
